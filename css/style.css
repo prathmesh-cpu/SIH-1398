@@ -1,0 +1,591 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700&family=Montserrat:wght@200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+/* ------------------------------------------------------------------ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~| HOME PAGE |~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ------------------------------------------------------------------ */
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~ NAVBAR ~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 4.4rem;
+    padding: 0 2.5rem;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+    z-index: 9;
+    position: fixed;
+    top: 0;
+    background-color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navbar .logo a {
+    font-family: 'Montserrat';
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+    color: #007914;
+}
+
+.navbar ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    gap: 3rem;
+}
+
+.navbar ul li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar ul li a {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1rem;
+    padding: 1.5rem 0;
+    letter-spacing: 0.01em;
+    color: #121213;
+}
+
+.navbar ul li a:hover,
+.dropdown:hover .dropbtn {
+    transition: 0.5s;
+    color: #007914;
+}
+
+.navbar .signup_btn, .navbar .lang_btn {
+    border: 2px solid #007914;
+    padding: 5px 12px;
+    border-radius: 1rem;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 0.9rem;
+    letter-spacing: 0.01em;
+    color: #000000;
+    cursor: pointer;
+}
+
+.navbar .lang_btn {
+    border: 2px solid #000000;
+    background-color: #ffe478;
+    color: #000000;
+}
+
+.navbar .lang_btn:hover {
+    background-color: #ffd078;
+}
+
+.navbar .toggle_btn {
+    display: none;
+}
+
+/* Dropdown Button */
+.dropbtn {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1rem;
+    padding: 1.5rem 0;
+    letter-spacing: 0.01em;
+    color: #121213;
+    background-color: transparent;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    font-family: 'Montserrat';
+    z-index: 1;
+}
+
+.dropdown-content a {
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1rem;
+    letter-spacing: 0.01em;
+    color: #121213;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.dropdown-content a i {
+    font-size: 1.5rem;
+    transition: 0s;
+}
+
+.dropdown-content a:hover {
+    background-color: #0c59009d;
+    color: #ffffff;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Carousel Slider */
+
+.slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 12.5vh;
+    position: relative;
+}
+
+.img_wrapper {
+    width: 80vw;
+    height: 80vh;
+    border-radius: 32px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    overflow: hidden;
+    position: relative;
+}
+
+.img_wrapper img {
+    width: 100%;
+    height: 100%;
+}
+
+.img_wrapper div {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(3px);
+    font-family: 'Montserrat';
+    gap: 1rem;
+}
+
+.img_wrapper div img {
+    width: 5rem;
+    height: 5rem;
+}
+
+.img_wrapper div h1 {
+    font-size: 2.3rem;
+    color: #ffffff;
+}
+
+.img_wrapper div a {
+    text-decoration: none;
+    border: 2px solid #007914;
+    background-color: #f2fff4;
+    padding: 0.5rem 1.5rem;
+    border-radius: 1.5rem;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 1.2rem;
+    letter-spacing: 0.01em;
+    color: #000000;
+    transition: 0.2s;
+}
+
+.img_wrapper div button:active {
+    background-color: #b9d8be;
+}
+
+.w2,
+.w3 {
+    display: none;
+}
+
+.img_changer {
+    position: absolute;
+    top: 92%;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    z-index: 3;
+}
+
+.round_img {
+    position: relative;
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.utility {
+    width: 80px;
+    height: 80px;
+    border: 4px solid #ffffff;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~| CROP PERFORMANCE PAGE |~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ----------------------------------------------------------------------------- */
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~ SECTION ~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.crop-performance-container {
+    position: relative;
+    top: 4.4rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2rem;
+    font-family: 'Montserrat';
+}
+
+.crop-performance-container h2 {
+    margin-bottom: 2rem;
+    text-align: center;
+    font-size: 2.1rem;
+}
+
+.crop-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 2rem;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+.crop-item {
+    width: 14rem;
+    text-align: center;
+    border: 1px solid #ebebeb;
+    padding: 1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.8rem;
+    border-radius: 1rem;
+}
+
+.crop-item img {
+    width: 100%;
+}
+
+.crop-item p {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.crop-item .viewPerformBtn {
+    width: 11.5rem;
+    padding: 0.7rem;
+    background-color: #007914;
+    border: none;
+    color: #ffffff;
+    border-radius: 0.5rem;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~| CONTACT PAGE |~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ----------------------------------------------------------------------------- */
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~ SECTION ~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.contact-container {
+    position: relative;
+    top: 4.4rem;
+    width: 100%;
+    background-color: #ffffff;
+    padding: 2rem 11rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-container h2 {
+    font-family: 'Montserrat';
+    text-align: center;
+    font-size: 2.1rem;
+}
+
+.contact-container>p {
+    font-family: 'Montserrat';
+    margin-bottom: 1rem;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.contact-container>div {
+    width: 62%;
+    text-align: left;
+}
+
+.contact-container>div>p {
+    font-family: 'Montserrat';
+    font-size: 1.2rem;
+}
+
+.contact-container>div li {
+    list-style-type: none;
+    font-family: 'Montserrat';
+    font-size: 1.2rem;
+}
+
+.contact-container>div li span {
+    font-size: 1.2rem;
+    color: #006811;
+    font-weight: bold;
+}
+
+.contact-container section {
+    padding: 2rem;
+    height: 25rem;
+    margin-top: 1rem;
+    border-radius: 1rem;
+    background-color: #ffffff;
+    box-shadow: 0px 7px 15px 1px #00000033;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 1rem;
+    justify-content: space-evenly;
+    overflow: hidden;
+}
+
+
+.contact-container section>p {
+    font-family: 'Montserrat';
+    margin-bottom: 1rem;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.contact-container section>div {
+    display: flex;
+}
+
+.contact-container section>div>div {
+    width: 50%;
+}
+
+.contact-container section>div>div>div {
+    width: 50%;
+}
+
+.contact-container section>div>div>div {
+    width: 50%;
+}
+
+.contact-container section .left {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-container section .left img {
+    width: 70%;
+    filter: hue-rotate(270deg);
+}
+
+.contact-container section .right {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 4rem;
+    position: relative;
+}
+
+.contact-container section .right form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.contact-container section .right div {
+    display: flex;
+    justify-content: space-between;
+    gap: 0.5rem;
+    border: 1px solid;
+    border-radius: 0.3rem;
+    padding: 0.7rem 1rem;
+    background-color: #EDF9F4;
+    color: #006811;
+}
+
+.contact-container section .right input,
+.contact-container section .right textarea {
+    width: 100%;
+    border: none;
+    outline: none;
+    font-weight: 400;
+    font-size: 1rem;
+    font-family: 'Montserrat';
+    background-color: transparent;
+    resize: none;
+}
+
+.contact-container section .right button {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 1rem;
+    border-radius: 2rem;
+    width: 7rem;
+    padding: 0.5rem 0.5rem;
+    border: none;
+    transition: 0.5s;
+    cursor: pointer;
+    box-shadow: 0px 3px 5px 0px #00000091;
+    background-color: #007914;
+    color: #ffffff;
+    align-self: flex-end;
+}
+
+.contact-container section .right button:hover {
+    box-shadow: 0px 3px 5px 0px #000000a6;
+    background-color: #00580f;
+    color: #ffffff;
+}
+
+/* SignUp ---------------------------------- */
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  /* Add a background color when the inputs get focus */
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  /* Set a style for all buttons */
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  button:hover {
+    opacity:1;
+  }
+  
+  /* Extra styles for the cancel button */
+  .cancelbtn {
+    padding: 14px 20px;
+    background-color: #f44336;
+  }
+  
+  /* Float cancel and signup buttons and add an equal width */
+  .cancelbtn, .signupbtn {
+    float: left;
+    width: 50%;
+  }
+  
+  /* Add padding to container elements */
+  .container {
+    padding: 16px;
+  }
+  
+  /* The Modal (background) */
+  .modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 8; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: #474e5d;
+    padding-top: 50px;
+  }
+  
+  /* Modal Content/Box */
+  .modal-content {
+    background-color: #fefefe;
+    margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+  }
+  
+  /* Style the horizontal ruler */
+  hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+  }
+   
+  /* The Close Button (x) */
+  .close {
+    position: absolute;
+    right: 35px;
+    top: 15px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #f1f1f1;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #f44336;
+    cursor: pointer;
+  }
+  
+  /* Clear floats */
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  /* Change styles for cancel button and signup button on extra small screens */
+  @media screen and (max-width: 300px) {
+    .cancelbtn, .signupbtn {
+       width: 100%;
+    }
+  }

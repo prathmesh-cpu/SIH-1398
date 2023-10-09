@@ -1,0 +1,1755 @@
+﻿state_name,district_name,market_center_name,Variety,group_name,Arrival,MIN,MAX,MODAL,date_arrival
+Maharashtra,Ahmednagar,Ahmednagar,Other,Fruits,1,400,600,500,01-Jan-22
+Maharashtra,Ahmednagar,Ahmednagar,Other,Fruits,1,400,500,450,02-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,1,300,400,400,03-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,300,500,400,03-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,300,500,400,03-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,300,550,500,03-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,1,250,700,500,04-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,1,300,550,400,04-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,300,550,400,04-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,1,250,500,400,04-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,1,200,500,300,05-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,200,500,300,05-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,200,550,500,05-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,300,550,400,05-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,300,500,400,07-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,200,500,350,07-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,200,500,500,07-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,1,300,500,400,07-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,1,300,500,400,07-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,200,500,400,08-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,1,300,550,400,08-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,250,500,400,09-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,300,550,400,09-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,250,500,400,10-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,300,500,400,10-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,200,500,300,10-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,1,250,525,500,10-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,1,250,500,300,11-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,1,200,500,300,11-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,1,250,500,300,11-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,300,500,400,11-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,300,500,400,12-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,300,500,400,12-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,300,600,500,12-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,300,550,500,14-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,300,600,500,14-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,3,250,500,400,14-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,300,700,550,15-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,400,800,700,15-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,300,700,500,16-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,3,250,600,500,17-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,300,600,450,17-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,3,300,600,500,17-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,3,300,700,600,17-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,5,300,700,500,17-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,3,300,700,600,18-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,4,300,800,500,18-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,5,300,900,600,19-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,550,1200,1000,19-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,3,500,1000,800,19-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,4,700,1250,1000,19-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,3,650,1200,1000,20-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,3,500,1000,700,20-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,3,700,1200,1000,20-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,3,700,1300,1000,21-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,3,550,1200,1000,21-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,4,700,1200,1000,21-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,3,500,1100,900,22-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,500,1150,900,22-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,3,500,1300,1000,22-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,3,700,1200,1000,22-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,3,500,1200,1000,23-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,4,800,1200,1000,23-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,3,500,1200,1000,24-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,700,1000,900,24-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,400,1150,800,24-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,500,1300,1000,25-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,3,800,1200,1000,25-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,300,800,650,25-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,450,300,900,700,27-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,5,300,950,800,27-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,600,1000,900,27-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,500,900,800,27-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,700,1200,1000,28-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,700,1000,900,28-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,500,1200,1000,28-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,500,1000,800,30-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,1,500,1000,800,31-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,2,500,1000,800,31-Jan-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,1,500,900,800,01-Feb-22
+Maharashtra,Sholapur,Akluj,Other,Fruits,1,500,1000,800,01-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,14,500,700,600,02-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,35,600,1200,900,02-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,18,1000,1500,1250,03-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,8,1000,1500,1250,03-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,5,1000,1300,1150,03-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,7,1000,1200,1100,03-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,6,1000,1200,1100,04-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,6,1000,1300,1150,04-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,11,800,1200,1000,04-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,12,800,1000,900,04-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,21,800,1000,900,05-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,36,400,600,500,05-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,41,500,700,600,06-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,39,500,700,600,06-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,41,500,700,600,07-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,41,500,700,600,07-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,41,400,700,550,08-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,41,400,700,550,08-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,43,400,700,550,08-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,32,500,700,600,08-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,41,500,700,600,09-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,42,500,700,600,09-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,37,500,700,600,09-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,42,500,700,600,09-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,45,400,700,550,10-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,54,400,700,550,10-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,34,600,800,700,10-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,24,500,700,600,10-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,43,400,600,500,10-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,49,400,600,500,10-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,56,400,700,550,11-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,72,400,800,650,11-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,47,500,700,600,11-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,31,1000,1400,1200,11-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,36,700,1000,850,11-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,51,400,800,600,12-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,45,400,800,600,12-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,34,500,1000,750,12-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,31,500,800,650,12-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,27,500,800,650,12-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,37,700,1000,850,13-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,39,600,1400,1000,13-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,37,700,1400,1050,14-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,39,800,1400,1100,14-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,37,700,1400,1050,14-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,24,700,1400,1050,14-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,31,600,1200,900,14-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,31,600,1200,900,15-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,22,800,1400,1100,15-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,24,800,1400,1100,15-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,51,700,1400,1050,15-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,46,1000,1500,1250,16-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,45,700,1400,1050,16-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,45,700,1200,950,16-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,44,800,1400,1100,16-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,45,700,1400,1050,16-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,46,700,1400,1050,16-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,46,700,1400,1050,17-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,45,700,1400,1050,17-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,43,800,1400,1100,17-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,43,800,1400,1100,17-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,42,800,1400,1100,17-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,37,800,1400,1100,18-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,41,700,1400,1050,18-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,39,600,1200,900,18-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,36,600,1200,900,18-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,22,700,1400,1050,18-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,25,800,1200,1000,19-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,21,800,1400,1100,19-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,16,1000,1400,1200,19-Feb-22
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Other,Fruits,14,1000,1400,1200,20-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,1,1000,1600,1300,20-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,3,1000,1600,1300,21-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,3,500,900,700,21-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,3,600,1200,900,21-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,4,700,1200,950,21-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,5,1000,1500,1250,21-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,5,1000,1500,1250,21-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,900,3700,5200,4450,22-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,1800,3000,6000,5000,22-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,8,300,500,400,22-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,15,300,500,400,22-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,11,400,600,500,22-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,25,300,500,400,22-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,3,300,500,400,22-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,27,300,400,350,23-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,33,500,600,550,23-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,2,300,500,400,23-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,3,400,600,500,23-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,7,300,500,400,23-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,13,400,500,450,24-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,54,400,500,450,24-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,6,500,700,600,24-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,3,500,600,550,24-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,6,300,400,350,24-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,3,400,600,500,24-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,9,400,500,450,24-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,24,400,500,450,24-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,11,500,800,650,24-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,84,500,700,600,25-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,25,500,700,600,25-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,83,500,600,550,25-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,11,600,800,700,25-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,7,800,1000,900,25-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,31,500,600,550,25-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,64,500,700,600,25-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,48,500,700,600,25-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,99,600,800,700,26-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,42,800,1000,900,26-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,72,700,1000,850,26-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,141,500,800,650,26-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,54,900,1200,1050,26-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,64,800,1100,950,26-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,183,600,1000,800,26-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,53,800,1200,1000,26-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,27,800,1100,950,26-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,152,700,1000,850,27-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,83,800,1200,1000,27-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,92,800,1300,1050,27-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,84,800,1200,1000,27-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,21,750,1350,1050,27-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,18,700,1300,1000,28-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,20,900,1200,1050,28-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,37,900,1300,1100,28-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,63,800,1200,1000,28-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,73,700,1300,1000,28-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,72,700,1000,850,28-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,22,800,1200,1000,28-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,27,800,1000,900,28-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,62,600,1100,850,28-Feb-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,41,700,1200,950,01-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,34,700,1000,850,01-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,43,500,1200,850,01-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,41,800,1300,1050,01-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,31,700,1200,950,01-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,12,800,1400,1100,02-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,11,800,1200,1000,02-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,13,600,1200,900,02-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,15,700,1100,900,02-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,8,600,1200,900,02-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,21,700,1200,950,02-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,18,700,1000,850,02-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,32,700,1300,1000,03-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,12,1000,1400,1200,03-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,7,1000,1400,1200,03-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,8,600,1200,900,03-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,5,800,1000,900,03-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,6,800,1200,1000,04-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,8,500,1000,750,04-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,11,700,900,800,04-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,8,600,900,750,04-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,11,1000,1300,1150,04-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,11,800,1200,1000,05-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,22,800,1000,900,05-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,7,800,1200,1000,05-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,3,1000,1400,1200,05-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,4,1000,1600,1300,05-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,2,700,1300,1000,05-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,3,600,1500,1050,05-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,3,1400,1600,1500,06-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,3,1000,1600,1300,06-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,3,1200,1400,1300,06-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,3,1200,1400,1300,06-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,3,1000,1500,1250,07-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,3,1000,1200,1100,07-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,3,1200,1800,1500,07-Mar-22
+Maharashtra,Aurangabad,Aurangabad,Other,Fruits,1,1000,1400,1200,07-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,2000,2000,2000,07-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,2000,2000,2000,07-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,800,800,800,07-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,800,800,800,08-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1000,1000,1000,08-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,4,1000,1000,1000,08-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1000,1000,1000,08-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,2,1000,1000,1000,08-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1500,1500,1500,08-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,2,1000,1000,1000,08-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1200,1200,1200,09-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,3,500,500,500,09-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1000,1000,1000,09-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1500,1500,1500,09-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1500,1500,1500,09-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,2,1500,1500,1500,09-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1500,1500,1500,09-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1500,1500,1500,10-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1500,1500,1500,10-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1500,1500,1500,10-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1500,1500,1500,10-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,2000,2000,2000,10-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1500,1500,1500,10-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1500,1500,1500,10-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1500,1500,1500,10-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1500,1500,1500,10-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1500,1500,1500,10-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1000,1000,1000,11-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1500,1500,1500,11-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1500,1500,1500,11-Mar-22
+Maharashtra,Jalgaon,Bhusaval,Other,Fruits,1,1200,1200,1200,11-Mar-22
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Other,Fruits,2,700,1500,1000,11-Mar-22
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Other,Fruits,13,800,1200,1000,11-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,134,800,1200,1000,11-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,183,800,1200,1000,11-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,320,800,1200,1000,11-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,81,800,1500,1150,12-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,436,800,1500,1150,12-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,330,1000,1500,1250,12-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,323,1000,1500,1250,12-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,339,1000,1400,1200,12-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,96,1200,1600,1400,12-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,287,1200,1400,1300,12-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,259,1200,1400,1300,13-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,279,1200,1600,1400,13-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,305,1200,1800,1500,13-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,344,1200,1600,1400,13-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,145,1200,1600,1400,13-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,131,1200,1500,1350,13-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,202,1200,1600,1400,14-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,227,1200,1600,1400,14-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,233,1200,1500,1350,14-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,177,1200,1600,1400,14-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,194,1200,1600,1400,14-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,128,1300,1900,1600,14-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,180,1200,1800,1500,14-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,196,1200,1800,1500,14-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,161,1600,3000,2300,14-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,115,1600,3000,2300,15-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,91,1600,2800,2200,15-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,194,1500,2500,2000,15-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,137,1600,2800,2200,15-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,123,1500,2500,2000,15-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,84,1500,2500,2000,15-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,178,1500,2500,2000,15-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,132,1500,2500,2000,15-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,95,1400,2400,1900,16-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,82,1500,2500,2000,16-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,80,1400,2400,1900,16-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,74,1400,2400,1900,16-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,103,1400,2800,2100,16-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,78,1400,2600,2000,16-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,30,1400,2600,2000,16-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,48,1400,2800,2100,16-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,45,1400,2400,1900,17-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,118,1400,2400,1900,17-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,173,1400,2600,2000,17-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,101,1400,2800,2100,17-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,121,1400,2800,2100,17-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,127,1400,2800,2100,17-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,19,1400,2800,2100,17-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,104,1400,2800,2100,17-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,51,1200,2600,1900,17-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,101,1200,2500,1850,18-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,89,1200,2500,1850,18-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,30,1200,2500,1850,18-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,38,1400,2400,1900,19-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,64,1500,2500,2000,19-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,142,1500,2500,2000,19-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,186,1500,2500,2000,19-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,55,1800,2400,2100,19-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,82,2000,2400,2200,19-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,142,2000,2600,2300,19-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,67,1600,2200,1900,19-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,74,1500,2000,1750,20-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,57,1500,2000,1750,20-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,70,1200,1800,1500,20-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,71,1200,1800,1500,20-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,149,1200,1800,1500,21-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,89,1200,2000,1600,21-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,7,1200,2000,1600,21-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,126,1200,1800,1500,21-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,158,1100,1700,1400,21-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,126,1200,1800,1500,21-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,214,1200,1600,1400,21-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,138,1000,1600,1300,21-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,104,1100,1600,1350,22-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,72,900,1500,1200,22-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,173,700,1200,950,22-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,122,800,1200,1000,22-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,184,900,1200,1050,22-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,29,900,1200,1050,22-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,34,900,1200,1050,22-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,98,700,1200,950,23-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,120,700,1200,950,23-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,251,700,1200,950,23-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,10,800,1300,1050,23-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,137,800,1200,1000,23-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,180,800,1200,1000,23-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,78,900,1200,1050,23-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,138,900,1300,1100,23-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,195,900,1300,1100,23-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,38,700,1300,1000,24-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,101,700,1300,1000,24-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,218,700,1200,950,24-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,205,700,1200,950,24-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,291,700,1200,950,24-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,239,700,1300,1000,24-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,116,500,1000,750,24-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,91,500,1000,750,24-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,157,500,1000,750,24-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,216,500,1000,750,25-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,40,500,1100,800,25-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,96,600,1200,900,25-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,120,500,1000,750,25-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,159,500,1000,750,25-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,119,500,1100,800,25-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,218,500,1200,850,25-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,83,500,1200,850,25-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,89,500,1200,850,26-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,95,500,1100,800,26-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,142,500,1200,850,26-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,75,600,1200,900,26-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,154,600,1200,900,26-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,148,600,1200,900,26-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,74,600,1200,900,26-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,123,600,1200,900,26-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,53,600,1200,900,26-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,73,600,1200,900,26-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,9,700,1300,1000,27-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,101,700,1200,950,27-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,172,600,1200,900,27-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,208,700,1200,950,27-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,249,700,1200,950,27-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,261,700,1200,950,27-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,36,700,1200,950,28-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,50,700,1200,950,28-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,47,700,1200,950,28-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,58,700,1200,950,28-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,165,700,1200,950,28-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,390,700,1100,900,28-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,29,800,1200,1000,28-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,241,800,1100,950,28-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,414,700,1050,875,28-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,268,700,1100,900,29-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,237,700,1200,950,29-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,223,700,1200,950,29-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,37,800,1200,1000,29-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,330,800,1200,1000,29-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,374,800,1200,1000,29-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,609,700,1200,950,29-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,407,700,900,800,29-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,926,700,900,800,29-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,373,600,800,700,29-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,193,600,800,700,30-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,448,600,900,750,30-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,369,600,800,700,30-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,368,500,800,650,30-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,567,500,900,700,30-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,572,500,1000,750,30-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,477,600,1200,900,30-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,468,700,1200,950,30-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,511,600,1200,900,31-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,545,600,1000,800,31-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,517,600,1000,800,31-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,645,700,1200,950,31-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,284,800,1400,1100,31-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,403,900,1400,1150,31-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,515,900,1300,1100,31-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,427,900,1300,1100,31-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,260,1000,1400,1200,31-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,643,1000,1400,1200,31-Mar-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,616,1000,1500,1250,01-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,439,1300,1500,1400,01-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,405,1300,1600,1450,01-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,654,1600,1800,1700,01-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,674,1400,1700,1550,01-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,597,1500,2000,1750,01-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,734,1400,1800,1600,01-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,921,1500,2000,1750,01-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,961,1400,2000,1700,01-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,1111,1200,1800,1500,02-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,705,1500,2000,1750,02-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,658,1400,1800,1600,02-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,563,1400,1800,1600,02-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,796,1400,2000,1700,02-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,835,1400,2000,1700,02-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,911,1200,1800,1500,02-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,1327,1200,1800,1500,02-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,834,1300,2000,1650,02-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,897,1300,2000,1650,03-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,897,1300,2000,1650,03-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,843,1400,2200,1800,03-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,959,1300,2000,1650,03-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,534,1000,2200,1600,03-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,614,900,1900,1400,03-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,1159,1000,1800,1400,03-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,667,1000,2000,1500,04-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,1174,1000,1600,1300,04-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,946,1000,1600,1300,04-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,824,1000,1600,1300,04-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,721,1000,1600,1300,04-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,670,800,1400,1100,04-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,768,800,1400,1100,04-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,747,800,1500,1150,04-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,597,800,1500,1150,04-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,648,800,1500,1150,04-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,426,900,1500,1200,04-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,404,900,1500,1200,05-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,454,900,1500,1200,05-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,592,900,1500,1200,05-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,621,800,1400,1100,05-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,712,800,1400,1100,05-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,331,900,1500,1200,05-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,815,800,1300,1050,05-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,422,900,1400,1150,05-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,378,900,1300,1100,05-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,694,900,1300,1100,06-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,477,900,1300,1100,06-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,575,900,1400,1150,06-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,750,900,1400,1150,06-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,378,900,1400,1150,06-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,362,900,1400,1150,06-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,525,900,1400,1150,06-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,391,1000,1500,1250,06-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,447,900,1200,1050,06-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,402,900,1200,1050,06-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,241,1000,1200,1100,06-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,266,1200,1400,1300,07-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,214,1200,1400,1300,07-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,383,1200,1400,1300,07-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,240,1200,1400,1300,07-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,332,1200,1400,1300,07-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,166,1200,1500,1350,07-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,260,1200,1500,1350,07-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,137,1200,1500,1350,07-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,107,1400,1500,1450,07-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,154,1400,1500,1450,07-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,116,1400,1500,1450,07-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,154,1500,2500,2000,07-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,176,1200,1600,1400,08-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,82,1200,1600,1400,08-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,127,1100,1500,1300,08-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,127,1100,1500,1300,08-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,123,1100,1500,1300,08-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,218,1800,2200,2000,08-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,110,1800,2400,2100,08-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,86,1800,2600,2200,08-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,73,1500,2400,1950,09-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,139,1600,2400,2000,09-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,102,1600,2400,2000,09-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,18,1500,2500,2000,09-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,44,1600,2200,1900,09-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,203,1600,2200,1900,09-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,141,1600,2200,1900,09-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,147,1600,2200,1900,09-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,118,1600,2200,1900,09-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,154,1600,2200,1900,09-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,80,1600,2200,1900,10-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,122,1500,2000,1750,10-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,123,1500,2000,1750,10-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,91,1500,2000,1750,10-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,34,1800,2500,2150,10-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,31,1800,2500,2150,10-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,159,1800,2500,2150,10-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,62,1800,2500,2150,10-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,143,1800,2500,2150,11-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,94,1800,2500,2150,11-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,85,2000,2800,2400,11-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,56,2200,3200,2700,11-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,32,2200,3200,2700,11-Apr-22
+Maharashtra,Mumbai,Fruit Market,Other,Fruits,73,2200,3200,2700,11-Apr-22
+Maharashtra,Pune,Maanachar,Other,Fruits,1,600,1100,850,11-Apr-22
+Maharashtra,Pune,Maanachar,Other,Fruits,1,300,300,300,11-Apr-22
+Maharashtra,Pune,Maanachar,Other,Fruits,1,600,1700,1150,11-Apr-22
+Maharashtra,Pune,Maanachar,Other,Fruits,1,300,300,300,11-Apr-22
+Maharashtra,Pune,Maanachar,Other,Fruits,1,500,700,600,12-Apr-22
+Maharashtra,Pune,Maanachar,Other,Fruits,1,400,600,500,12-Apr-22
+Maharashtra,Pune,Maanachar,Other,Fruits,1,400,900,700,12-Apr-22
+Maharashtra,Pune,Maanachar,Other,Fruits,1,600,600,600,12-Apr-22
+Maharashtra,Pune,Maanachar,Other,Fruits,1,500,1000,750,12-Apr-22
+Maharashtra,Pune,Maanachar,Other,Fruits,1,450,850,650,12-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,9,400,1200,900,12-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,7,400,1200,900,12-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,3,400,1200,900,12-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,13,400,1200,900,13-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,19,400,1200,900,13-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,7,400,1300,900,13-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,3,400,1300,900,13-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,3,400,1300,900,13-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,2,400,1300,900,13-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,4,400,1300,900,13-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,21,400,1300,900,13-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,9,400,1300,900,13-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,4,700,1500,1200,13-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,16,600,1600,1100,13-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,2,600,1600,1100,14-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,5,600,1600,1100,14-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,4,600,1600,1100,14-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,13,600,1600,1100,14-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,5,600,1600,1100,14-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,9,600,1600,1100,14-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,3,700,1200,800,14-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,10,700,1200,800,14-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,2,700,1400,1000,14-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,6,700,1400,1000,14-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,4,800,1400,1100,14-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,15,700,1400,1050,15-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,2,700,1400,1000,15-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,1,600,1200,800,15-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,5,700,1400,1050,15-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,3,700,1500,1000,15-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,3,700,1500,1000,15-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,3,600,1200,900,15-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,2,600,1200,800,15-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,2,700,1200,1000,16-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,2,300,800,500,16-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,2,300,800,500,16-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,4,900,1500,1200,16-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,1,300,800,600,16-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,3,650,1200,800,16-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,5,650,1200,800,16-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,2,500,1000,750,16-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,2,500,1000,750,16-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,2,450,1000,700,16-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,3,400,1000,700,16-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,2,650,1200,900,17-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,11,500,900,700,17-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,10,400,800,600,17-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,3,400,800,600,17-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,4,400,800,600,17-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,2,400,800,600,17-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,14,600,900,700,17-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,4,700,1200,900,17-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,1,600,900,700,18-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,8,600,900,700,18-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,5,600,900,700,18-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,3,500,800,600,18-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,2,500,800,600,18-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,2,600,900,700,18-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,2,600,900,700,18-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,7,600,900,700,18-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,14,600,1000,800,18-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,3,600,1200,900,18-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,3,600,1000,800,19-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,16,600,1200,900,19-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,8,600,1200,900,19-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,9,600,1200,800,19-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,29,600,1200,900,19-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,24,600,1200,900,19-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,7,600,1200,900,19-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,8,500,1100,800,19-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,10,500,1100,800,19-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,11,700,1400,1000,19-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,11,700,1400,1000,20-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,10,700,1400,1000,20-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,10,700,1400,1000,20-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,28,400,1100,800,20-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,37,500,1300,900,20-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,61,500,1200,800,20-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,44,600,1300,900,20-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,43,700,1400,900,20-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,52,500,1200,800,20-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,22,2400,3400,2900,20-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,110,400,1000,700,20-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,48,600,1200,900,21-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,83,500,1200,800,21-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,124,500,1200,800,21-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,108,400,1000,700,21-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,89,400,1000,700,21-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,81,400,1000,700,21-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,96,300,600,400,21-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,134,300,700,500,21-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,138,300,800,600,21-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,159,300,800,600,21-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,207,300,700,500,21-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,154,300,1000,700,21-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,135,300,1000,700,22-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,173,300,1000,700,22-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,150,500,1000,800,22-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,163,500,1000,800,22-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,255,500,1000,800,22-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,204,600,1200,900,22-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,206,600,1200,900,22-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,118,600,1200,900,22-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,149,600,1200,900,22-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,138,500,1100,900,23-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,143,500,1100,900,23-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,123,500,1100,900,23-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,67,700,1300,1000,23-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,94,700,1300,1000,23-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,22,700,1300,1000,23-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,77,600,1200,900,23-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,88,700,1300,1000,23-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,93,700,1300,1000,23-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,82,600,1400,1000,23-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,60,600,1400,1000,23-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,76,500,1300,900,24-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,127,500,1300,900,24-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,91,500,1400,900,24-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,83,500,1400,900,24-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,49,500,1400,1000,24-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,87,600,1400,1000,24-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,70,600,1400,1000,25-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,6,1000,1900,1500,25-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,58,600,1300,1000,25-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,69,500,1500,1000,25-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,76,600,1400,1000,25-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,38,500,1500,1000,25-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,73,700,1400,1000,25-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,51,700,1400,1000,25-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,55,700,1400,1000,25-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,64,700,1400,1000,25-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,7,700,1400,1000,25-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,73,700,1400,1000,26-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,46,500,1500,1000,26-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,49,800,1600,1200,26-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,92,800,1600,1200,26-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,50,800,1600,1200,26-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,55,600,1400,900,26-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,35,600,1400,900,26-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,13,600,1400,900,26-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,18,400,1200,800,26-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,21,400,1200,800,26-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,27,600,1400,900,26-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,45,600,1400,900,27-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,28,600,1400,900,27-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,15,600,1400,1000,27-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,5,600,1400,950,27-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,17,600,1400,1000,27-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,24,700,1500,1200,27-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,6,900,1800,1400,27-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,23,900,1800,1400,27-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,42,900,1800,1400,27-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,29,900,1800,1400,27-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,31,900,1800,1400,27-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,7,900,1900,1400,27-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,6,1000,1800,1500,27-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,6,1000,1800,1500,28-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,3,1000,1800,1500,28-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,7,1000,1800,1500,28-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,9,1000,1800,1500,28-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,6,1000,1800,1500,28-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,6,1000,1800,1500,28-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,7,1000,1800,1500,28-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,2,1000,1800,1500,28-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,3,1000,1800,1500,28-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,5,1000,1800,1500,28-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,13,1000,1800,1500,28-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,1,800,1800,1400,28-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,22,800,1800,1400,28-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,5,800,1800,1400,29-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,1,1200,1900,1500,29-Apr-22
+Maharashtra,Nashik,Nasik,Other,Fruits,3,1200,1900,1500,29-Apr-22
+Maharashtra,Nandurbar,Navapur,Other,Fruits,1,700,700,700,29-Apr-22
+Maharashtra,Nandurbar,Navapur,Other,Fruits,1,700,700,700,29-Apr-22
+Maharashtra,Osmanabad,Osmanabad,Other,Fruits,1,500,1000,750,29-Apr-22
+Maharashtra,Pune,Pune,Other,Fruits,17,500,1200,900,29-Apr-22
+Maharashtra,Pune,Pune,Other,Fruits,28,500,1200,900,29-Apr-22
+Maharashtra,Pune,Pune,Other,Fruits,44,800,1600,1200,29-Apr-22
+Maharashtra,Pune,Pune,Other,Fruits,33,500,1200,900,30-Apr-22
+Maharashtra,Pune,Pune,Other,Fruits,57,500,1200,900,30-Apr-22
+Maharashtra,Pune,Pune,Other,Fruits,24,500,1500,1000,30-Apr-22
+Maharashtra,Pune,Pune,Other,Fruits,16,500,1500,1000,30-Apr-22
+Maharashtra,Pune,Pune,Other,Fruits,23,500,1500,1000,30-Apr-22
+Maharashtra,Pune,Pune,Other,Fruits,37,500,1500,1000,30-Apr-22
+Maharashtra,Pune,Pune,Other,Fruits,20,500,1500,1000,30-Apr-22
+Maharashtra,Pune,Pune,Other,Fruits,51,500,1700,1100,30-Apr-22
+Maharashtra,Pune,Pune,Other,Fruits,27,1000,1800,1400,30-Apr-22
+Maharashtra,Pune,Pune,Other,Fruits,18,1000,2000,1500,30-Apr-22
+Maharashtra,Pune,Pune,Other,Fruits,22,500,1500,1000,01-May-22
+Maharashtra,Pune,Pune,Other,Fruits,34,500,1700,1100,01-May-22
+Maharashtra,Pune,Pune,Other,Fruits,11,500,2000,1300,01-May-22
+Maharashtra,Pune,Pune,Other,Fruits,24,500,1500,1000,01-May-22
+Maharashtra,Pune,Pune,Other,Fruits,17,500,1800,1200,01-May-22
+Maharashtra,Pune,Pune,Other,Fruits,17,500,1700,1100,02-May-22
+Maharashtra,Pune,Pune,Other,Fruits,41,500,1500,1000,02-May-22
+Maharashtra,Pune,Pune,Other,Fruits,14,700,1500,1100,02-May-22
+Maharashtra,Pune,Pune,Other,Fruits,7,700,1500,1100,02-May-22
+Maharashtra,Pune,Pune,Other,Fruits,44,700,1500,1100,02-May-22
+Maharashtra,Pune,Pune,Other,Fruits,19,700,1200,1000,02-May-22
+Maharashtra,Pune,Pune,Other,Fruits,21,900,1500,1200,02-May-22
+Maharashtra,Pune,Pune,Other,Fruits,37,1000,2500,1800,02-May-22
+Maharashtra,Pune,Pune,Other,Fruits,12,1200,2600,1900,02-May-22
+Maharashtra,Pune,Pune,Other,Fruits,11,1000,2200,1600,02-May-22
+Maharashtra,Pune,Pune,Other,Fruits,8,1000,2500,1800,02-May-22
+Maharashtra,Pune,Pune,Other,Fruits,10,1500,2500,2000,03-May-22
+Maharashtra,Pune,Pune,Other,Fruits,26,1000,2500,1800,03-May-22
+Maharashtra,Pune,Pune,Other,Fruits,32,1000,2500,1800,03-May-22
+Maharashtra,Pune,Pune,Other,Fruits,22,1200,2600,1900,03-May-22
+Maharashtra,Pune,Pune,Other,Fruits,3,1200,2500,1800,03-May-22
+Maharashtra,Pune,Pune,Other,Fruits,18,1000,2500,1800,03-May-22
+Maharashtra,Pune,Pune,Other,Fruits,27,1000,3000,2000,03-May-22
+Maharashtra,Pune,Pune,Other,Fruits,15,1000,3000,2000,04-May-22
+Maharashtra,Pune,Pune,Other,Fruits,9,1200,2600,1900,04-May-22
+Maharashtra,Pune,Pune,Other,Fruits,61,1500,2500,2000,04-May-22
+Maharashtra,Pune,Pune,Other,Fruits,12,1500,3000,2300,04-May-22
+Maharashtra,Pune,Pune,Other,Fruits,3,1500,2500,2000,04-May-22
+Maharashtra,Pune,Pune,Other,Fruits,2,1000,2500,1800,04-May-22
+Maharashtra,Pune,Pune,Other,Fruits,23,1000,2500,1800,04-May-22
+Maharashtra,Pune,Pune,Other,Fruits,14,1000,2500,1800,04-May-22
+Maharashtra,Pune,Pune,Other,Fruits,15,1000,2000,1500,04-May-22
+Maharashtra,Pune,Pune,Other,Fruits,18,500,1500,1000,04-May-22
+Maharashtra,Pune,Pune,Other,Fruits,3,1000,2000,1500,05-May-22
+Maharashtra,Pune,Pune,Other,Fruits,11,500,2000,1300,05-May-22
+Maharashtra,Pune,Pune,Other,Fruits,30,500,1500,1000,05-May-22
+Maharashtra,Pune,Pune,Other,Fruits,7,500,1200,900,05-May-22
+Maharashtra,Pune,Pune,Other,Fruits,9,500,1200,900,05-May-22
+Maharashtra,Pune,Pune,Other,Fruits,5,500,1600,1100,05-May-22
+Maharashtra,Pune,Pune,Other,Fruits,32,500,1000,750,05-May-22
+Maharashtra,Pune,Pune,Other,Fruits,16,700,1600,1200,05-May-22
+Maharashtra,Pune,Pune,Other,Fruits,22,500,1800,1300,05-May-22
+Maharashtra,Pune,Pune,Other,Fruits,6,800,1200,1000,05-May-22
+Maharashtra,Pune,Pune,Other,Fruits,1,500,2000,1300,06-May-22
+Maharashtra,Pune,Pune,Other,Fruits,17,800,2000,1400,06-May-22
+Maharashtra,Pune,Pune,Other,Fruits,22,500,1500,1000,06-May-22
+Maharashtra,Pune,Pune,Other,Fruits,52,500,1500,1000,06-May-22
+Maharashtra,Pune,Pune,Other,Fruits,21,500,1500,1000,06-May-22
+Maharashtra,Pune,Pune,Other,Fruits,1,600,1200,900,06-May-22
+Maharashtra,Pune,Pune,Other,Fruits,21,500,1500,1000,06-May-22
+Maharashtra,Pune,Pune,Other,Fruits,5,500,1500,1000,06-May-22
+Maharashtra,Pune,Pune,Other,Fruits,11,500,1500,1000,07-May-22
+Maharashtra,Pune,Pune,Other,Fruits,11,500,1500,1000,07-May-22
+Maharashtra,Pune,Pune,Other,Fruits,12,500,1200,900,07-May-22
+Maharashtra,Pune,Pune,Other,Fruits,3,500,1200,900,08-May-22
+Maharashtra,Pune,Pune,Other,Fruits,17,500,1500,1000,08-May-22
+Maharashtra,Pune,Pune,Other,Fruits,17,500,1500,1000,08-May-22
+Maharashtra,Pune,Pune,Other,Fruits,17,500,1500,1000,08-May-22
+Maharashtra,Pune,Pune,Other,Fruits,20,500,1500,1000,08-May-22
+Maharashtra,Pune,Pune,Other,Fruits,34,500,1500,1000,08-May-22
+Maharashtra,Pune,Pune,Other,Fruits,8,500,1500,1000,08-May-22
+Maharashtra,Pune,Pune,Other,Fruits,21,500,900,700,09-May-22
+Maharashtra,Pune,Pune,Other,Fruits,12,500,900,700,09-May-22
+Maharashtra,Pune,Pune,Other,Fruits,33,500,1500,1000,09-May-22
+Maharashtra,Pune,Pune,Other,Fruits,17,400,600,500,09-May-22
+Maharashtra,Pune,Pune,Other,Fruits,21,400,1000,700,09-May-22
+Maharashtra,Pune,Pune,Other,Fruits,17,500,1000,800,09-May-22
+Maharashtra,Pune,Pune,Other,Fruits,21,500,900,700,09-May-22
+Maharashtra,Pune,Pune,Other,Fruits,29,500,800,700,09-May-22
+Maharashtra,Pune,Pune,Other,Fruits,41,500,700,600,09-May-22
+Maharashtra,Pune,Pune,Other,Fruits,12,300,700,500,09-May-22
+Maharashtra,Pune,Pune,Other,Fruits,19,500,1000,750,10-May-22
+Maharashtra,Pune,Pune,Other,Fruits,23,500,900,700,10-May-22
+Maharashtra,Pune,Pune,Other,Fruits,19,500,900,700,10-May-22
+Maharashtra,Pune,Pune,Other,Fruits,3,500,900,700,10-May-22
+Maharashtra,Pune,Pune,Other,Fruits,37,400,700,600,10-May-22
+Maharashtra,Pune,Pune,Other,Fruits,11,300,700,500,10-May-22
+Maharashtra,Pune,Pune,Other,Fruits,17,300,700,500,10-May-22
+Maharashtra,Pune,Pune,Other,Fruits,15,300,700,500,10-May-22
+Maharashtra,Pune,Pune,Other,Fruits,24,400,800,600,10-May-22
+Maharashtra,Pune,Pune,Other,Fruits,27,500,700,600,10-May-22
+Maharashtra,Pune,Pune,Other,Fruits,17,400,800,600,10-May-22
+Maharashtra,Pune,Pune,Other,Fruits,18,300,700,500,11-May-22
+Maharashtra,Pune,Pune,Other,Fruits,1,300,500,400,11-May-22
+Maharashtra,Pune,Pune,Other,Fruits,18,400,600,500,11-May-22
+Maharashtra,Pune,Pune,Other,Fruits,16,400,600,500,11-May-22
+Maharashtra,Pune,Pune,Other,Fruits,33,500,1000,800,11-May-22
+Maharashtra,Pune,Pune,Other,Fruits,15,400,700,600,11-May-22
+Maharashtra,Pune,Pune,Other,Fruits,35,300,700,500,11-May-22
+Maharashtra,Pune,Pune,Other,Fruits,19,500,1000,800,11-May-22
+Maharashtra,Pune,Pune,Other,Fruits,17,500,800,600,11-May-22
+Maharashtra,Pune,Pune,Other,Fruits,24,1000,1500,1300,11-May-22
+Maharashtra,Pune,Pune,Other,Fruits,16,400,700,600,12-May-22
+Maharashtra,Pune,Pune,Other,Fruits,18,400,700,600,12-May-22
+Maharashtra,Pune,Pune,Other,Fruits,15,300,700,500,12-May-22
+Maharashtra,Pune,Pune,Other,Fruits,13,400,600,500,14-May-22
+Maharashtra,Pune,Pune,Other,Fruits,32,400,600,500,14-May-22
+Maharashtra,Pune,Pune,Other,Fruits,10,400,700,600,14-May-22
+Maharashtra,Pune,Pune,Other,Fruits,4,400,700,600,14-May-22
+Maharashtra,Pune,Pune,Other,Fruits,39,400,800,600,14-May-22
+Maharashtra,Pune,Pune,Other,Fruits,21,400,600,500,14-May-22
+Maharashtra,Pune,Pune,Other,Fruits,31,400,600,500,14-May-22
+Maharashtra,Pune,Pune,Other,Fruits,28,400,600,500,14-May-22
+Maharashtra,Pune,Pune,Other,Fruits,9,400,600,500,14-May-22
+Maharashtra,Pune,Pune,Other,Fruits,4,400,700,600,15-May-22
+Maharashtra,Pune,Pune,Other,Fruits,11,300,600,500,15-May-22
+Maharashtra,Pune,Pune,Other,Fruits,8,1000,1500,1300,15-May-22
+Maharashtra,Pune,Pune,Other,Fruits,15,500,1500,1000,15-May-22
+Maharashtra,Pune,Pune,Other,Fruits,15,500,1000,800,15-May-22
+Maharashtra,Pune,Pune,Other,Fruits,9,400,800,600,15-May-22
+Maharashtra,Pune,Pune,Other,Fruits,5,400,600,500,15-May-22
+Maharashtra,Pune,Pune,Other,Fruits,5,400,800,600,15-May-22
+Maharashtra,Pune,Pune,Other,Fruits,14,400,800,600,15-May-22
+Maharashtra,Pune,Pune,Other,Fruits,30,400,700,600,16-May-22
+Maharashtra,Pune,Pune,Other,Fruits,52,400,600,500,16-May-22
+Maharashtra,Pune,Pune,Other,Fruits,29,400,800,600,16-May-22
+Maharashtra,Pune,Pune,Other,Fruits,17,400,700,600,16-May-22
+Maharashtra,Pune,Pune,Other,Fruits,33,500,1000,800,16-May-22
+Maharashtra,Pune,Pune,Other,Fruits,46,400,800,600,16-May-22
+Maharashtra,Pune,Pune,Other,Fruits,133,300,700,500,16-May-22
+Maharashtra,Pune,Pune,Other,Fruits,18,400,900,700,16-May-22
+Maharashtra,Pune,Pune,Other,Fruits,6,400,700,600,17-May-22
+Maharashtra,Pune,Pune,Other,Fruits,10,400,700,600,17-May-22
+Maharashtra,Pune,Pune,Other,Fruits,71,400,800,600,17-May-22
+Maharashtra,Pune,Pune,Other,Fruits,47,600,1000,800,17-May-22
+Maharashtra,Pune,Pune,Other,Fruits,83,800,1500,1200,17-May-22
+Maharashtra,Pune,Pune,Other,Fruits,31,400,1000,700,17-May-22
+Maharashtra,Pune,Pune,Other,Fruits,52,500,1200,900,17-May-22
+Maharashtra,Pune,Pune,Other,Fruits,49,500,1000,800,17-May-22
+Maharashtra,Pune,Pune,Other,Fruits,45,500,1000,800,17-May-22
+Maharashtra,Pune,Pune,Other,Fruits,70,500,900,700,17-May-22
+Maharashtra,Pune,Pune,Other,Fruits,44,500,1000,800,18-May-22
+Maharashtra,Pune,Pune,Other,Fruits,29,500,800,700,18-May-22
+Maharashtra,Pune,Pune,Other,Fruits,50,500,900,700,18-May-22
+Maharashtra,Pune,Pune,Other,Fruits,53,400,900,700,18-May-22
+Maharashtra,Pune,Pune,Other,Fruits,56,500,900,700,18-May-22
+Maharashtra,Pune,Pune,Other,Fruits,53,600,1000,800,18-May-22
+Maharashtra,Pune,Pune,Other,Fruits,54,500,900,700,18-May-22
+Maharashtra,Pune,Pune,Other,Fruits,92,500,1000,800,18-May-22
+Maharashtra,Pune,Pune,Other,Fruits,67,500,900,700,18-May-22
+Maharashtra,Pune,Pune,Other,Fruits,110,400,900,700,18-May-22
+Maharashtra,Pune,Pune,Other,Fruits,55,500,900,700,18-May-22
+Maharashtra,Pune,Pune,Other,Fruits,79,400,700,600,18-May-22
+Maharashtra,Pune,Pune,Other,Fruits,57,400,700,600,19-May-22
+Maharashtra,Pune,Pune,Other,Fruits,58,400,900,700,19-May-22
+Maharashtra,Pune,Pune,Other,Fruits,41,500,900,700,19-May-22
+Maharashtra,Pune,Pune,Other,Fruits,94,400,800,600,19-May-22
+Maharashtra,Pune,Pune,Other,Fruits,91,400,700,600,19-May-22
+Maharashtra,Pune,Pune,Other,Fruits,98,400,1000,700,19-May-22
+Maharashtra,Pune,Pune,Other,Fruits,82,500,1200,900,19-May-22
+Maharashtra,Pune,Pune,Other,Fruits,65,500,1000,800,19-May-22
+Maharashtra,Pune,Pune,Other,Fruits,87,400,900,700,19-May-22
+Maharashtra,Pune,Pune,Other,Fruits,146,600,1200,900,19-May-22
+Maharashtra,Pune,Pune,Other,Fruits,83,500,1000,750,19-May-22
+Maharashtra,Pune,Pune,Other,Fruits,109,500,1500,1000,19-May-22
+Maharashtra,Pune,Pune,Other,Fruits,135,700,1500,1100,19-May-22
+Maharashtra,Pune,Pune,Other,Fruits,153,500,1500,1000,20-May-22
+Maharashtra,Pune,Pune,Other,Fruits,99,700,1500,1100,20-May-22
+Maharashtra,Pune,Pune,Other,Fruits,79,700,1500,1100,20-May-22
+Maharashtra,Pune,Pune,Other,Fruits,94,700,1500,1100,20-May-22
+Maharashtra,Pune,Pune,Other,Fruits,53,700,1500,1100,20-May-22
+Maharashtra,Pune,Pune,Other,Fruits,140,700,1500,1100,20-May-22
+Maharashtra,Pune,Pune,Other,Fruits,218,700,1500,1100,20-May-22
+Maharashtra,Pune,Pune,Other,Fruits,165,700,1500,1100,20-May-22
+Maharashtra,Pune,Pune,Other,Fruits,115,700,1600,1200,20-May-22
+Maharashtra,Pune,Pune,Other,Fruits,151,500,1500,1000,20-May-22
+Maharashtra,Pune,Pune,Other,Fruits,103,700,1600,1200,21-May-22
+Maharashtra,Pune,Pune,Other,Fruits,192,500,1500,1000,21-May-22
+Maharashtra,Pune,Pune,Other,Fruits,131,700,1500,1100,21-May-22
+Maharashtra,Pune,Pune,Other,Fruits,112,500,1500,1000,21-May-22
+Maharashtra,Pune,Pune,Other,Fruits,92,500,1500,1000,21-May-22
+Maharashtra,Pune,Pune,Other,Fruits,136,500,1700,1000,21-May-22
+Maharashtra,Pune,Pune,Other,Fruits,85,700,1500,1100,21-May-22
+Maharashtra,Pune,Pune,Other,Fruits,196,500,1800,1200,21-May-22
+Maharashtra,Pune,Pune,Other,Fruits,148,700,1500,1100,21-May-22
+Maharashtra,Pune,Pune,Other,Fruits,154,700,1600,1200,22-May-22
+Maharashtra,Pune,Pune,Other,Fruits,95,700,1500,1100,22-May-22
+Maharashtra,Pune,Pune,Other,Fruits,140,600,1800,1200,22-May-22
+Maharashtra,Pune,Pune,Other,Fruits,108,700,1500,1100,22-May-22
+Maharashtra,Pune,Pune,Other,Fruits,143,700,1500,1100,22-May-22
+Maharashtra,Pune,Pune,Other,Fruits,148,700,1800,1300,22-May-22
+Maharashtra,Pune,Pune,Other,Fruits,151,700,1500,1100,23-May-22
+Maharashtra,Pune,Pune,Other,Fruits,191,900,1300,1100,23-May-22
+Maharashtra,Pune,Pune,Other,Fruits,196,700,1500,1100,23-May-22
+Maharashtra,Pune,Pune,Other,Fruits,168,700,1500,1100,23-May-22
+Maharashtra,Pune,Pune,Other,Fruits,189,700,1500,1100,23-May-22
+Maharashtra,Pune,Pune,Other,Fruits,141,700,1500,1100,23-May-22
+Maharashtra,Pune,Pune,Other,Fruits,152,700,1500,1100,23-May-22
+Maharashtra,Pune,Pune,Other,Fruits,89,700,1400,1100,23-May-22
+Maharashtra,Pune,Pune,Other,Fruits,116,700,1500,1100,23-May-22
+Maharashtra,Pune,Pune,Other,Fruits,129,700,1500,1100,23-May-22
+Maharashtra,Pune,Pune,Other,Fruits,145,700,1500,1100,24-May-22
+Maharashtra,Pune,Pune,Other,Fruits,123,700,1500,1100,24-May-22
+Maharashtra,Pune,Pune,Other,Fruits,153,700,1800,1300,24-May-22
+Maharashtra,Pune,Pune,Other,Fruits,69,500,1800,1200,24-May-22
+Maharashtra,Pune,Pune,Other,Fruits,127,700,1500,1100,24-May-22
+Maharashtra,Pune,Pune,Other,Fruits,107,700,1500,1100,24-May-22
+Maharashtra,Pune,Pune,Other,Fruits,249,700,1500,1100,24-May-22
+Maharashtra,Pune,Pune,Other,Fruits,113,700,1500,1100,24-May-22
+Maharashtra,Pune,Pune,Other,Fruits,134,700,1500,1100,24-May-22
+Maharashtra,Pune,Pune,Other,Fruits,133,700,1500,1100,24-May-22
+Maharashtra,Pune,Pune,Other,Fruits,108,700,1500,1100,25-May-22
+Maharashtra,Pune,Pune,Other,Fruits,112,700,1500,1100,25-May-22
+Maharashtra,Pune,Pune,Other,Fruits,156,500,1500,1000,25-May-22
+Maharashtra,Pune,Pune,Other,Fruits,117,800,1500,1200,25-May-22
+Maharashtra,Pune,Pune,Other,Fruits,61,700,1800,1300,25-May-22
+Maharashtra,Pune,Pune,Other,Fruits,103,900,1600,1300,25-May-22
+Maharashtra,Pune,Pune,Other,Fruits,87,900,1800,1400,25-May-22
+Maharashtra,Pune,Pune,Other,Fruits,97,800,1800,1300,25-May-22
+Maharashtra,Pune,Pune,Other,Fruits,141,1000,1800,1400,25-May-22
+Maharashtra,Pune,Pune,Other,Fruits,101,700,1600,1200,25-May-22
+Maharashtra,Pune,Pune,Other,Fruits,58,700,1500,1100,25-May-22
+Maharashtra,Pune,Pune,Other,Fruits,79,700,1800,1300,26-May-22
+Maharashtra,Pune,Pune,Other,Fruits,93,1000,2200,1600,26-May-22
+Maharashtra,Pune,Pune,Other,Fruits,88,700,2000,1400,26-May-22
+Maharashtra,Pune,Pune,Other,Fruits,201,900,1500,1200,26-May-22
+Maharashtra,Pune,Pune,Other,Fruits,38,800,1500,1200,26-May-22
+Maharashtra,Pune,Pune,Other,Fruits,60,800,1600,1200,26-May-22
+Maharashtra,Pune,Pune,Other,Fruits,63,800,1800,1300,26-May-22
+Maharashtra,Pune,Pune,Other,Fruits,40,900,2000,1500,26-May-22
+Maharashtra,Pune,Pune,Other,Fruits,59,800,1500,1200,26-May-22
+Maharashtra,Pune,Pune,Other,Fruits,76,1000,2000,1500,26-May-22
+Maharashtra,Pune,Pune,Other,Fruits,32,900,1600,1300,26-May-22
+Maharashtra,Pune,Pune,Other,Fruits,46,900,1800,1400,27-May-22
+Maharashtra,Pune,Pune,Other,Fruits,7,800,1500,1200,27-May-22
+Maharashtra,Pune,Pune,Other,Fruits,21,1000,1800,1400,27-May-22
+Maharashtra,Pune,Pune,Other,Fruits,10,1000,1800,1400,27-May-22
+Maharashtra,Pune,Pune,Other,Fruits,43,600,1400,1000,27-May-22
+Maharashtra,Pune,Pune,Other,Fruits,22,800,1800,1300,27-May-22
+Maharashtra,Pune,Pune,Other,Fruits,11,800,2000,1400,27-May-22
+Maharashtra,Pune,Pune,Other,Fruits,23,700,1800,1300,27-May-22
+Maharashtra,Pune,Pune,Other,Fruits,18,700,1600,1200,27-May-22
+Maharashtra,Pune,Pune,Other,Fruits,32,700,1600,1200,28-May-22
+Maharashtra,Pune,Pune,Other,Fruits,49,800,1500,1200,28-May-22
+Maharashtra,Pune,Pune,Other,Fruits,13,1000,2200,1600,28-May-22
+Maharashtra,Pune,Pune,Other,Fruits,16,1000,1800,1400,28-May-22
+Maharashtra,Pune,Pune,Other,Fruits,32,500,1500,1000,28-May-22
+Maharashtra,Pune,Pune,Other,Fruits,12,500,1800,1200,28-May-22
+Maharashtra,Pune,Pune,Other,Fruits,28,1000,2000,1500,28-May-22
+Maharashtra,Pune,Pune,Other,Fruits,29,500,1800,1200,28-May-22
+Maharashtra,Pune,Pune,Other,Fruits,18,1000,2000,1500,28-May-22
+Maharashtra,Pune,Pune,Other,Fruits,26,500,1800,1200,28-May-22
+Maharashtra,Pune,Pune,Other,Fruits,12,1000,2000,1500,29-May-22
+Maharashtra,Pune,Pune,Other,Fruits,16,1000,2000,1500,29-May-22
+Maharashtra,Pune,Pune,Other,Fruits,17,1000,2200,1400,29-May-22
+Maharashtra,Pune,Pune,Other,Fruits,5,500,2000,1300,29-May-22
+Maharashtra,Pune,Pune,Other,Fruits,23,700,2500,1600,29-May-22
+Maharashtra,Pune,Pune,Other,Fruits,20,700,2000,1400,29-May-22
+Maharashtra,Pune,Pune,Other,Fruits,8,1000,2000,1500,29-May-22
+Maharashtra,Pune,Pune,Other,Fruits,9,1800,2500,2000,29-May-22
+Maharashtra,Pune,Pune,Other,Fruits,11,1000,2000,1500,29-May-22
+Maharashtra,Pune,Pune,Other,Fruits,20,1000,2500,1800,30-May-22
+Maharashtra,Pune,Pune,Other,Fruits,24,1000,2500,1800,30-May-22
+Maharashtra,Pune,Pune,Other,Fruits,8,1000,2500,1800,30-May-22
+Maharashtra,Pune,Pune,Other,Fruits,9,1000,2200,1600,30-May-22
+Maharashtra,Pune,Pune,Other,Fruits,14,1000,2000,1500,30-May-22
+Maharashtra,Pune,Pune,Other,Fruits,2,1000,2200,1600,30-May-22
+Maharashtra,Pune,Pune,Other,Fruits,32,1200,2200,1700,30-May-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,600,800,700,31-May-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,600,800,700,31-May-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,600,600,600,31-May-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,1000,1000,31-May-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,1000,1000,31-May-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,1000,1500,1250,31-May-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,600,1000,800,31-May-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,600,1000,800,31-May-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,600,1000,800,01-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,3,1000,1000,1000,01-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,1000,1000,01-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,3,1000,1000,1000,01-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,1000,1000,1000,01-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,1000,1000,1000,01-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,4,1000,1000,1000,01-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,3,1000,1000,1000,01-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,1000,1000,1000,01-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,600,1000,800,02-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,800,1000,900,02-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,3,700,1000,850,02-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,7,800,1000,900,02-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,6,800,1000,900,02-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,3,800,1000,900,02-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,4,600,1000,800,02-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,4,700,1000,850,03-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,4,600,1000,800,04-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,5,600,1000,800,04-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,4,600,1000,800,04-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,4,600,1000,800,04-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,3,600,1000,800,04-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,5,1000,1500,1250,04-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,6,600,1000,800,04-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,3,600,1000,800,05-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,3,600,1000,800,05-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,5,600,1000,800,05-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,5,600,1000,800,05-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,6,800,1500,1150,05-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,6,600,1000,800,05-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,4,800,1000,900,06-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,8,1000,1000,1000,07-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,4,600,1000,800,07-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,5,1000,2000,1500,07-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,5,800,1200,1000,07-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,7,1000,1100,1050,07-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,4,800,1200,1000,07-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,1000,1200,1100,07-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,1000,1500,1250,07-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,600,1200,900,08-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,700,1000,800,08-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,700,1000,800,08-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,1000,1000,08-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,1000,1500,1250,08-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,5,1000,2000,1500,08-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,2000,1500,08-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,1500,1250,08-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1500,2000,1750,09-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1500,2000,1750,09-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,1500,1250,09-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1500,2000,1750,09-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,1000,2000,1500,09-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,1500,1250,09-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,1500,1250,09-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,1500,1250,09-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,1500,1250,09-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,1000,1500,1250,10-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,1000,1500,1250,10-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,1500,1250,10-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,1000,1500,1250,10-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,1500,1250,10-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,2000,1500,10-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,2000,1500,10-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,1000,2000,1500,10-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,2000,1500,10-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,3000,2000,11-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,1000,2000,1500,11-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,1000,2000,1500,11-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,1000,2000,1500,11-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,1000,2000,1500,11-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1200,2000,1600,11-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,1000,1000,1000,12-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,2,1000,1000,1000,12-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,2000,1500,12-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,1500,1250,13-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,3000,3000,3000,13-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1000,1000,1000,13-Jun-22
+Maharashtra,Pune,Pune(Manjri),Other,Fruits,1,1500,1500,1500,13-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,14,500,800,650,13-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,6,800,800,800,13-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,11,800,1000,900,13-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,5,500,800,650,14-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,5,800,1000,900,14-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,10,700,800,750,14-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,4,800,1000,900,14-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,12,600,1000,800,14-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,5,800,1000,900,14-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,3,500,800,650,14-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,8,500,800,650,14-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,1,800,1000,900,15-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,5,800,1000,900,15-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,4,800,800,800,15-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,2,1000,1000,1000,15-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,1,1000,1000,1000,15-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,4,800,800,800,15-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,3,800,1000,900,16-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,6,800,1000,900,16-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,5,800,1000,900,16-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,6,500,700,600,17-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,1,1000,1000,1000,17-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,4,800,1000,900,17-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,3,800,800,800,17-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,1,1000,1000,1000,17-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,2,1000,1000,1000,17-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,1,3000,6000,4500,18-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,3,1000,1000,1000,18-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,1,500,500,500,18-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,1,500,500,500,18-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,1,500,500,500,18-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,4,800,800,800,18-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,2,800,800,800,18-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,2,800,800,800,18-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,1,800,800,800,18-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,3,800,800,800,19-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,1,800,800,800,19-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,1,1000,1000,1000,19-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,1,1000,1000,1000,19-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,2,800,800,800,20-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,2,500,600,550,20-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,9,300,700,500,20-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,1,600,600,600,20-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,3,600,600,600,20-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,2,300,300,300,20-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,1,500,600,550,20-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,6,300,400,350,21-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,2,500,600,550,21-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,10,300,400,350,21-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,17,500,600,550,21-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,3,400,500,450,21-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,10,400,700,550,22-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,5,400,500,450,22-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,9,500,600,550,22-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,4,300,500,400,22-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,2,600,600,600,22-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,5,500,600,550,22-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,12,400,600,500,22-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,10,600,600,600,23-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,22,200,500,350,23-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,14,500,600,550,23-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,32,400,500,450,23-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,12,200,500,350,23-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,14,300,400,350,23-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,34,300,500,400,24-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,36,400,500,450,24-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,8,500,500,500,24-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,46,200,500,350,24-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,28,400,500,450,25-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,40,500,600,550,25-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,19,3000,5000,4000,25-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,22,400,500,450,25-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,512,500,700,600,25-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,20,500,600,550,26-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,18,400,600,500,26-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,43,400,600,500,26-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,40,500,600,550,26-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,45,700,900,800,27-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,60,600,700,650,27-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,41,600,700,650,27-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,45,600,800,700,27-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,49,300,800,550,27-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,24,500,700,600,27-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,57,500,600,550,27-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,25,500,700,600,28-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,84,600,1000,800,28-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,50,700,1200,950,28-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,55,500,600,550,28-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,63,700,1200,950,28-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,47,1000,1200,1100,28-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,28,600,1200,900,29-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,53,600,1200,900,29-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,47,700,1200,950,29-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,44,800,1200,1000,29-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,89,1000,1300,1150,29-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,32,1000,1200,1100,29-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,61,900,1300,1100,29-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,43,1000,1300,1150,30-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,92,700,1200,950,30-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,90,700,1200,950,30-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,93,1200,1300,1250,30-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,39,1000,1200,1100,30-Jun-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,33,1000,1300,1150,01-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,33,1000,1300,1150,01-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,41,900,1300,1100,01-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,85,1000,1300,1150,01-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,56,1000,1200,1100,01-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,53,500,1200,850,02-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,52,800,1300,1050,02-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,41,800,1200,1000,03-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,43,1100,1200,1150,03-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,46,500,1000,750,03-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,26,400,800,600,04-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,18,800,1000,900,04-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,56,600,800,700,04-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,30,900,1000,950,04-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,44,1000,1000,1000,05-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,61,700,1000,850,05-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,51,900,1000,950,05-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,45,800,1000,900,05-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,80,700,1000,850,06-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,55,1000,1000,1000,06-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,54,800,1000,900,06-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,34,400,1000,700,06-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,41,500,800,650,06-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,32,1000,1000,1000,07-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,22,600,800,700,07-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,21,500,1000,750,07-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,54,500,1000,750,07-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,21,700,1000,850,07-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,14,800,1000,900,08-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,23,800,1000,900,08-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,31,500,700,600,08-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,18,500,1000,750,09-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,25,1000,1200,1100,09-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,29,700,800,750,10-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,20,500,700,600,11-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,9,500,700,600,11-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,17,600,600,600,11-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,10,500,600,550,12-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,2,600,800,700,12-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,9,500,800,650,13-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,16,500,800,650,13-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,8,500,600,550,13-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,4,1000,1000,1000,13-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,6,600,800,700,14-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,3,800,800,800,14-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,3,600,600,600,15-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,5,500,500,500,15-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,5,800,800,800,15-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,4,500,800,650,15-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,1,500,500,500,16-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,3,500,500,500,16-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,6,500,1000,750,16-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,7,500,500,500,16-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,3,1000,1000,1000,17-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,4,800,1000,900,17-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,3,800,800,800,17-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,1,800,800,800,17-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,3,1000,1000,1000,18-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,2,1000,1000,1000,18-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,1,1000,1000,1000,18-Jul-22
+Maharashtra,Pune,Pune(Moshi),Other,Fruits,4,1000,1000,1000,18-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,800,1000,900,19-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,800,1000,900,19-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,800,1000,900,20-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,600,800,700,20-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,800,1000,900,20-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,600,800,700,20-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,800,1000,900,20-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,800,1000,900,21-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,600,800,700,21-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,800,1000,900,21-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,2,600,800,700,22-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,800,1000,900,22-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,2,600,800,700,22-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,2,600,800,700,22-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,2,800,1000,900,22-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,2,600,800,700,22-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,600,800,700,23-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,800,1000,900,23-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,2,800,1000,900,23-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,2,800,1000,900,23-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,2,800,1000,900,23-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,3,800,1000,900,23-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,2,1400,1600,1500,24-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,2,1000,1400,1200,24-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,2,1400,1600,1500,24-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,2,1000,1400,1200,25-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,2,800,1000,900,25-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,800,1000,900,25-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,800,1000,900,25-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,2,800,1000,900,25-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,800,1000,900,26-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,2,1000,1400,1200,26-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,800,1000,900,27-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,1000,1400,1200,27-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,2,1000,1400,1200,27-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,1000,1400,1200,27-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,1000,1400,1200,28-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,1000,1400,1200,28-Jul-22
+Maharashtra,Nagpur,Ramtek,Other,Fruits,1,1600,1800,1700,28-Jul-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,27,500,1300,900,29-Jul-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,3,500,1400,950,29-Jul-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,5,500,1200,850,29-Jul-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,13,500,1500,1000,29-Jul-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,3,500,1500,1000,29-Jul-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,6,500,1500,1000,30-Jul-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,5,500,1500,1000,31-Jul-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,16,500,1200,850,31-Jul-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,3,500,1200,850,31-Jul-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,2,500,1500,1000,31-Jul-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,6,500,1500,1000,01-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,29,300,700,500,02-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,14,500,2000,1250,02-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,7,500,2000,1250,02-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,3,500,2000,1250,03-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,1,500,2000,1250,03-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,1,700,2000,1350,03-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,1,700,2000,1350,03-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,3,700,1400,1050,04-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,2,500,900,700,04-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,2,500,800,650,05-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,3,500,700,600,05-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,4,500,1000,750,05-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,16,500,1000,750,05-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,1,300,700,500,05-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,15,600,1000,800,06-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,16,500,1000,750,06-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,4,300,1000,650,06-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,7,600,1000,800,06-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,40,600,1000,800,06-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,5,500,1000,750,07-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,17,500,1000,750,07-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,2,500,1000,750,07-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,2,500,1000,750,07-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,8,500,1000,750,08-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,2,300,800,550,08-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,25,300,800,550,08-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,7,300,800,550,08-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,12,300,800,550,08-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,35,300,700,350,08-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,19,500,1000,750,09-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,23,500,1000,750,09-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,29,500,1000,750,10-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,39,500,1000,750,10-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,8,500,1000,750,10-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,26,500,1000,750,10-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,14,500,1000,750,11-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,21,500,1000,750,11-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,35,500,1100,800,11-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,38,500,1000,750,11-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,7,500,1000,750,12-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,29,300,700,500,12-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,5,500,1200,850,12-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,56,500,1000,750,13-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,30,300,800,550,13-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,28,500,900,700,13-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,55,500,1000,750,13-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,34,500,1200,850,14-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,17,700,1300,1000,14-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,59,700,1300,1000,15-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,53,500,1000,750,15-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,55,700,1300,1000,15-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,41,700,1300,1000,16-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,22,700,1200,950,16-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,41,700,1300,1000,17-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,50,700,1300,1000,17-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,70,700,1300,1000,17-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,72,500,1300,900,17-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,59,500,1500,1000,17-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,77,500,1500,1000,18-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,22,500,1500,1000,18-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,46,500,1500,1000,18-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,11,500,1500,1000,18-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,48,500,1500,1000,19-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,28,500,1500,1000,19-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,93,500,1500,1000,19-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,41,500,1500,1000,19-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,35,500,1500,1000,19-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,65,500,1500,1000,20-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,26,500,1500,1000,20-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,53,500,1000,750,20-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,27,500,1500,1000,20-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,22,500,1200,850,20-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,31,500,1200,850,21-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,150,500,1200,850,21-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,54,500,1500,1000,21-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,72,500,1500,1000,21-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,13,500,1300,900,22-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,81,500,1300,900,22-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,35,500,1500,1000,22-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,63,500,1200,850,22-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,89,500,1200,850,22-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,7,500,1400,950,23-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,2,400,1400,900,23-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,35,500,1500,1000,23-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,42,500,1500,1000,24-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,118,800,1300,1050,24-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,35,700,1200,950,24-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,49,600,1200,900,25-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,65,500,1300,900,25-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,44,500,1500,1000,25-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,61,500,1500,1000,26-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,16,500,1500,1000,26-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,3,500,1500,1000,26-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,33,500,1500,1000,27-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,2,1000,2000,1500,27-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,4,1000,2000,1500,28-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,5,1000,2000,1500,28-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,1,1000,2000,1500,28-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,5,1000,2000,1500,29-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,3,500,2500,1500,29-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,9,500,1500,1000,30-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,8,1500,2000,1750,30-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,2,500,1500,1000,30-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,8,500,1500,1000,31-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,3,500,1500,1000,31-Aug-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,26,500,1500,1000,02-Sep-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,2,500,1500,1000,02-Sep-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,3,500,1500,1000,02-Sep-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,7,500,1500,1000,03-Sep-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,3,500,1500,1000,03-Sep-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,4,500,1300,900,04-Sep-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,1,500,1500,1000,05-Sep-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,6,500,1200,850,05-Sep-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,2,500,1200,850,07-Sep-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,9,800,1500,1150,07-Sep-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,1,800,1500,1150,07-Sep-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,6,700,1500,1100,08-Sep-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,1,700,1500,1100,08-Sep-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,1,500,1200,850,08-Sep-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,4,400,1200,800,08-Sep-22
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Other,Fruits,1,400,1200,800,08-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1200,1000,09-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1200,1000,10-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1200,1000,11-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1200,1000,13-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1000,900,13-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,500,1000,750,15-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,1000,2000,1550,15-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1200,1000,16-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1200,1000,16-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1500,1150,17-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,500,1000,750,17-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1200,1000,17-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1000,900,18-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1200,1000,18-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1200,1000,19-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,500,1000,750,19-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1000,900,19-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1200,1000,20-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1000,900,20-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,500,1000,750,22-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,1000,2000,1550,22-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,1000,1500,1250,22-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,1000,1500,1250,22-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,500,900,700,23-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,800,1000,900,23-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,600,800,700,23-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,500,900,700,23-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,500,900,700,23-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,500,800,650,24-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1000,900,24-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,800,1000,900,25-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,500,900,700,25-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,500,900,700,26-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,500,1000,750,26-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,500,900,700,28-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,500,900,700,28-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,500,900,700,29-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,500,900,700,29-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,500,800,650,29-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,800,1000,900,30-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,500,900,700,30-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,2500,3500,3000,30-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,600,800,700,30-Sep-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,500,800,600,01-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1000,900,01-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,600,800,700,02-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1000,900,02-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,500,900,700,02-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,500,1000,750,03-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,500,900,700,03-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1000,900,03-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,500,900,700,04-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1000,900,04-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1000,900,05-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1000,900,05-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,500,1000,750,06-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1000,900,06-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,500,1000,750,07-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1000,900,07-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,500,900,700,07-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,500,1000,750,07-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,500,1000,750,09-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,500,900,700,10-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1000,900,10-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1200,1000,12-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1200,1000,12-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1000,900,12-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1200,1000,12-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1200,1000,13-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,1000,1500,1250,13-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1400,1100,14-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1200,1000,14-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1500,1150,15-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1200,1000,15-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1000,900,15-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1200,1000,16-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,800,1200,1000,16-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1000,900,17-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1000,900,17-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1200,1000,17-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1200,1000,18-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1200,1000,18-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,800,1000,900,18-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1200,1000,19-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,1000,1200,1100,19-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,1000,1200,1100,20-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1400,1100,20-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,1000,1200,1100,20-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1400,1100,20-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1000,900,20-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1200,1000,21-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1000,900,21-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,800,1200,1000,22-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,500,1000,750,23-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,800,1000,900,24-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1000,900,25-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,500,1000,750,26-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1200,1000,26-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,800,1200,1000,27-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,500,1000,750,28-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,4,800,1200,1000,28-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1000,900,28-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,500,1000,750,28-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,800,1000,900,29-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,400,800,600,29-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,600,800,700,29-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,500,700,600,29-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,400,800,600,30-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,500,900,700,30-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,400,700,550,30-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,400,800,600,31-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,400,600,500,31-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,300,500,400,31-Oct-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,400,700,550,01-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,4,400,600,500,01-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,400,800,600,01-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,400,600,500,02-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,400,800,600,02-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,400,800,600,02-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,400,600,500,03-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,400,600,500,03-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,4,400,800,600,03-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,300,500,400,03-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,4,400,700,550,03-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,300,500,400,04-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,400,600,500,04-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,400,600,500,04-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,300,700,550,05-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,400,600,500,05-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,4,400,600,500,05-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,400,700,550,05-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,600,800,700,06-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,600,800,700,06-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,500,700,600,07-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,500,1000,750,07-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,500,900,700,07-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,500,1000,750,07-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,500,1000,750,08-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,500,1000,750,08-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,4,800,1000,900,08-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,1000,1400,1200,09-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,4,800,1000,900,09-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1200,1000,09-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,1000,1500,1250,10-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,4,1000,1500,1250,11-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,14,800,1300,1000,11-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,4,800,1200,1000,11-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,4,800,1200,1000,11-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1000,900,11-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,4,1000,1500,1250,12-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1500,1150,13-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1500,1150,14-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1200,1000,15-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1500,1150,15-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1500,1150,16-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1200,1000,16-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1200,1000,16-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1500,1100,17-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,4,800,1200,1000,17-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1500,1150,17-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1500,1150,17-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,4,800,1200,1000,17-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,4,800,1200,1000,18-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,4,1000,1400,1200,18-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,4,1000,1500,1250,18-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,4,1000,1200,1100,19-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,500,1000,750,19-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,4,800,1000,900,19-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1000,900,19-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,4,800,1200,1000,20-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,800,1000,900,21-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1500,1150,21-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,1,800,1200,1000,22-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,3,800,1200,1000,22-Nov-22
+Maharashtra,Ahmednagar,Shrirampur,Other,Fruits,2,800,1000,900,22-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,15,200,1500,1000,22-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,12,200,2000,1000,23-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,10,500,1500,1000,23-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,19,500,2500,1500,23-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,9,1000,4000,2000,23-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,14,1000,2000,1500,24-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,6,500,1500,1000,24-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,16,1000,3000,2000,24-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,2,300,1000,700,24-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,2,700,1300,1000,24-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,8,200,1000,600,24-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,5,1000,3000,1500,26-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,8,500,3000,1000,26-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,3,300,1500,800,26-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,4,500,1200,800,27-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,300,1100,500,27-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,4,200,500,300,27-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,3,1000,3000,2000,28-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,12,300,800,500,28-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,300,500,400,28-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,2,200,800,500,28-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,2,1000,2000,1500,28-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,200,300,200,29-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,1000,1500,1000,30-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,1000,1500,1000,30-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,700,2500,1200,30-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,2,1500,2600,2000,30-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,1800,2500,2000,30-Nov-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,300,500,400,01-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,2,1000,2000,1500,01-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,1000,2300,1500,02-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,2,700,2000,1250,02-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,1400,2500,1500,02-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,200,700,400,02-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,500,500,500,02-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,150,500,300,02-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,300,2200,500,03-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,2,300,4000,3500,03-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,2,300,500,400,03-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,2,300,500,400,04-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,2,300,500,400,04-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,2,500,900,700,06-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,8,500,1000,700,06-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,2,400,700,500,07-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,300,600,400,08-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,2,300,300,300,08-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,300,1400,500,08-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,2,300,500,400,08-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,500,500,500,08-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,200,400,300,08-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,5,200,500,300,09-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,3,400,600,500,09-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,12,400,600,500,10-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,7,300,500,400,10-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,3,200,1000,500,10-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,500,500,500,11-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,300,500,400,11-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,3,300,500,400,11-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,200,200,200,12-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,5,150,600,350,12-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,3,300,750,500,12-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,10,300,500,400,12-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,5,250,500,400,12-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,1,200,600,350,12-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,14,400,700,500,13-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,6,400,700,500,13-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,3,3000,7500,5000,13-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,3,250,700,500,13-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,11,300,750,500,13-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,15,500,700,600,13-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,5,500,800,600,14-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,12,400,800,600,14-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,9,400,900,700,14-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,9,600,1000,800,14-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,220,300,500,400,14-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,15,500,800,600,15-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,10,500,1250,900,15-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,7,500,1000,700,15-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,10,300,800,600,15-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,8,300,1300,800,15-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,12,300,1500,800,15-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,8,300,1000,500,15-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,20,500,1500,900,16-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,14,400,1000,700,16-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,23,300,800,500,16-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,14,300,500,400,17-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,10,250,500,300,17-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,10,400,900,700,17-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,2,250,500,300,17-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,16,200,500,300,17-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,21,300,1500,1000,17-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,24,1000,1500,1100,17-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,39,1000,1600,1100,18-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,42,1000,2100,1300,18-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,37,1000,2000,1200,18-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,51,1000,1900,1200,19-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,38,900,1400,1000,19-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,21,800,1500,1200,19-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,19,1250,2000,1600,19-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,76,1000,2250,1200,19-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,67,1000,2000,1400,19-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,49,1000,2500,1600,19-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,70,1000,2500,1300,20-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,34,800,2000,1200,20-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,54,1000,2750,2000,20-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,54,1000,3000,2000,20-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,15,1200,2300,1600,20-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,67,1000,3500,2000,21-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,65,1000,3000,1800,21-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,49,1000,2500,1800,21-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,67,1000,4000,2000,21-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,48,1800,4000,2500,21-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,41,1500,3000,2100,21-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,25,1000,3500,2000,21-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,28,1000,3000,2000,22-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,43,1000,2500,1800,22-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,39,1000,3500,2200,22-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,60,1500,3000,2000,23-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,46,1000,3750,2000,23-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,50,1500,4000,2300,23-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,51,1500,4000,2500,23-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,22,1000,3500,2500,24-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,21,1000,2500,1900,24-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,9,500,2250,1650,24-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,28,1000,2200,1600,24-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,10,1000,2000,1500,24-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,26,1000,3000,2000,25-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,20,1000,3000,2000,25-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,23,1000,2500,1800,25-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,15,1000,2000,1500,25-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,42,1500,2500,2000,25-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,51,1500,2500,2000,26-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,45,1800,2500,2000,26-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,38,1000,2500,1600,26-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,46,1000,2400,1500,26-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,24,1000,32500,2000,28-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,17,1000,2500,2000,28-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,14,900,1500,1000,28-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,20,1000,2000,1400,28-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,2,800,2500,1700,28-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,19,800,2300,1600,28-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,13,1000,2500,2000,28-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,26,1000,3000,1900,29-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,13,1000,3000,1800,29-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,7,800,1500,1200,29-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,22,1000,3000,1700,29-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,15,1000,3000,1800,29-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,37,1000,3000,2000,29-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,22,800,3500,2000,29-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,7,800,3000,2000,29-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,14,800,3000,1800,30-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,5,1000,3000,1500,30-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,6,1000,2500,1400,30-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,15,1000,1500,1200,30-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,3,700,1500,1000,30-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,7,1000,3000,1800,30-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,2,800,2800,1800,30-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,3,1000,2250,1700,31-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,4,1000,3000,1500,31-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,5,1000,2000,1200,31-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,7,500,2000,1000,31-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,3,600,1500,1100,31-Dec-22
+Maharashtra,Sholapur,Solapur,Other,Fruits,2,1000,2250,1400,31-Dec-22
